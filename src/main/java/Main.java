@@ -6,6 +6,8 @@ public class Main {
 
     alien.biteHuman(human);
     human.getHealth();
+    alien.biteHuman(human);
+    human.getHealth();
 
 
 
