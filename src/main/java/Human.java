@@ -1,6 +1,6 @@
 public class Human implements Character {
 
-    int health = 100;
+    int health = 105;
     int ammo = 200;
     boolean isDead = false;
 
