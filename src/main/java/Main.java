@@ -8,7 +8,8 @@ public class Main {
 
     Human human2 = new Human();
     Alien alien2 = new Alien();
-
+        Human human4 = new Human();
+        Alien alien4 = new Alien();
 
 
     alien.biteHuman(human);
