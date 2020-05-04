@@ -16,9 +16,7 @@ public class Main {
     Alien alien5 = new Alien();
         Human human6 = new Human();
         Alien alien6 = new Alien();
-
-    Human human7 = new Human();
-    Alien alien7 = new Alien();
+        
 
 
     alien.biteHuman(human);
